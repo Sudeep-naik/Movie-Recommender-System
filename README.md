@@ -1,0 +1,1 @@
+This project implements a movie recommender system using the Natural Language Toolkit (NLTK) library in Python. The recommender system utilizes cosine similarity to recommend movies based on their plot summaries.
